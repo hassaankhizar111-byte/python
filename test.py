@@ -39,3 +39,8 @@
 
 name = "hassaan"
 print(name[0:5:2])
+
+name = "hassaan"
+believe = "hassaan is going to become a billionaire"
+truth = name + "" + believe 
+print(truth)
