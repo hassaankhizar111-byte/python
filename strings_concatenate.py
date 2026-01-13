@@ -7,3 +7,7 @@ greeting = "good morning"
 name = " hassaan"
 c = greeting + name 
 print(c)
+
+words = ["I", "am", "learning", "Python"]
+sentence = " ".join(words)
+print(sentence)
