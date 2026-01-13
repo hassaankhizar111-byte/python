@@ -8,6 +8,6 @@ name = " hassaan"
 c = greeting + name 
 print(c)
 
-words = ["I", "am", "learning", "Python"]
+words = ["I", "am", "learning", "Python"]   # sentence builder
 sentence = " ".join(words)
 print(sentence)
