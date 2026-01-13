@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "git hub",
+			"path": "../git hub"
+		},
+		{
+			"name": "python",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,8 @@
+''' this problem is a solution of problem 1 of code with harry prsctice set '''
+
+
+print('''Twinkle, twinkle, little star,
+How I wonder what you are!
+Up above the world so high,
+Like a diamond in the sky.''')
+
