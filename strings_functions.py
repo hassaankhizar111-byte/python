@@ -26,3 +26,8 @@ print(index)
 statement = "i love python programming" # SPLIT = SPLITTING A SENTENCE INTO WORDS 
 words = statement.split()
 print(words) 
+
+quote = ''' Steve Jobs highlighted that those "crazy enough" to think they can change the world
+are ultimately the ones who do. '''
+line = quote.split()         # SPLITTING A SENTENCE INTO WORDS
+print(line)
