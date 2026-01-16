@@ -1,5 +1,5 @@
 a = 'i will prove them wrong no matter what' # concatenate two strings
-b = ' ,  i will do it for my mom'
+b = ' ,  i will do it for my parents'
 print(a , b)
 
 len("hassaan")     # LENGHTH
@@ -41,7 +41,7 @@ name = "hassaan"    # SLICING
 print(name[0:5:2])
 
 name = "hassaan"    # CONCATENATION
-believe = "hassaan is going to become a billionaire" 
+believe = " is going to become a billionaire" 
 truth = name + "" + believe 
 print(truth)
 
@@ -57,3 +57,16 @@ quote = ''' Steve Jobs highlighted that those "crazy enough" to think they can c
 are ultimately the ones who do. '''
 line = quote.split()         # SPLITTING A SENTENCE INTO WORDS
 print(line)
+
+line = "'the only way to do great work is to love what you do.'"     # FORMATTED STRING
+print(f"this is truth that: {line}")  
+
+def calc_sum(a, b):    # def function
+    sum = a + b
+    print(sum)
+    return sum
+
+calc_sum(5, 10)
+calc_sum(20, 30)
+calc_sum(100, 200)
+calc_sum(7, 3)

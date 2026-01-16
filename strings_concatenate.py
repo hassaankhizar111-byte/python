@@ -10,10 +10,9 @@ print(c)
 
 words = ["I", "am", "learning", "Python"]   # sentence builder
 sentence = " ".join(words)
-print(sentence)print(sentence)
 print(sentence)
 
 name = "hassaan"
 believe = "hassaan is going to become a billionaire"  
 truth = name + "" + believe 
-print(truth)
+print(truth) 
