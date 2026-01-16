@@ -39,4 +39,3 @@ calc_sum(5, 10)
 calc_sum(20, 30)
 calc_sum(100, 200)
 calc_sum(7, 3)
-
