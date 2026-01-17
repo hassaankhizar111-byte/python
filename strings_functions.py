@@ -31,3 +31,16 @@ quote = ''' Steve Jobs highlighted that those "crazy enough" to think they can c
 are ultimately the ones who do. '''
 line = quote.split()         # SPLITTING A SENTENCE INTO WORDS
 print(line)
+
+school = "python is best for beginners"
+print(school.title())
+
+def calc_sum(a, b):    # def function
+    sum = a + b
+    print(sum)
+    return sum
+
+calc_sum(5, 10)
+calc_sum(20, 30)
+calc_sum(100, 200)
+calc_sum(7, 3)
